@@ -8,7 +8,7 @@ Welcome to the **Mavens Product Documentation** site.
 
 ---
 
-## [Mavens Medical Information Cloud](/docs/mic/)
+## [Mavens Medical Information Cloud](docs/mic/homepage.md)
 
 A regulated medical affairs platform for the life sciences industry.
 
