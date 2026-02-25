@@ -1,5 +1,3 @@
-# Mavens
-
 Welcome to the online help for **Mavens**.
 
 ![Mavens](./assets/mavens.png)
