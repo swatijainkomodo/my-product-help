@@ -1,7 +1,3 @@
----
-title: Mavens
----
-
 # Mavens
 
 Welcome to the online help for **Mavens**.
