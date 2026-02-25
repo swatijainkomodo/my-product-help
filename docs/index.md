@@ -6,6 +6,8 @@ title: Mavens
 
 Welcome to the online help for **Mavens**.
 
+![Mavens](docs/assets/mavens.png)
+
 - [Medical Information Cloud](docs/mic)
 - [Scientific Publications Cloud](spc.md)
 - [Komodo Insights Component](kic.md)
