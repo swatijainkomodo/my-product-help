@@ -4,6 +4,8 @@
 
 Welcome to the **Mavens Product Documentation** site.
 
+![Mavens](docs/assets/mavens.png)
+
 ---
 
 ## [Mavens Medical Information Cloud](./mic/)
