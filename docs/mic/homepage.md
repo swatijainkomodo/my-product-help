@@ -10,8 +10,8 @@ Regulated Content Cloud - a regulated content management module designed to help
 
 To ensure an optimal experience with Medical Information Cloud, make sure that all installation prerequisites and technical requirements are met. You can also customize, extend, and integrate Medical Information Cloud to best support your business requirements and processes. Leverage sandbox environments to facilitate ongoing development and quality assurance activities. The links below will help you get started:
 
-## [Get Started]()
+## [Get Started](docs/mic/get-started.md)
 
-## [Release Notes]()
+## [Release Notes](docs/mic/release-notes.md)
 
-## [Known Issues]()
+## [Known Issues](docs/mic/known-issues.md)
