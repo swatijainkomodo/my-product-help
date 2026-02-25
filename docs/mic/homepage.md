@@ -1,4 +1,4 @@
-# Get Started
+# MIC
 
 Medical Information Cloud is a regulated medical affairs platform for the life sciences industry. With this product, you can record and manage medical information inquiries from healthcare professionals and consumers as well as manage the creation, modification, and distribution of medical content in a globally compliant, cloud-based interface that is built on the powerful Salesforce platform.
 
@@ -9,3 +9,9 @@ Inquiry Management - an inquiry management module designed to help you record an
 Regulated Content Cloud - a regulated content management module designed to help you manage the creation, modification, distribution, and security of medical content.
 
 To ensure an optimal experience with Medical Information Cloud, make sure that all installation prerequisites and technical requirements are met. You can also customize, extend, and integrate Medical Information Cloud to best support your business requirements and processes. Leverage sandbox environments to facilitate ongoing development and quality assurance activities. The links below will help you get started:
+
+## [Get Started]()
+
+## [Release Notes]()
+
+## [Known Issues]()
