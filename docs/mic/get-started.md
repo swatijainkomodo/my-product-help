@@ -1,3 +1,5 @@
+# Get Started
+
 Medical Information Cloud is a regulated medical affairs platform for the life sciences industry. With this product, you can record and manage medical information inquiries from healthcare professionals and consumers as well as manage the creation, modification, and distribution of medical content in a globally compliant, cloud-based interface that is built on the powerful Salesforce platform.
 
 The Medical Information Cloud product contains two modules:
